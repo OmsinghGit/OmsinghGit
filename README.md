@@ -1,16 +1,21 @@
-## Hi there 👋
+# Hi, I'm Om Singh 👋
+🎓 Computer Science Engineering Student
 
-<!--
-**OmsinghGit/OmsinghGit** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 Currently Learning:
+- DSA using C++
+- MERN Stack Development
 
-Here are some ideas to get you started:
+🚀 Current Goals:
+- Improve problem-solving skills
+- Build meaningful projects
+- Prepare for software engineering roles
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🛠️ Technologies:
+- C++
+- JavaScript
+- HTML/CSS
+- Git & GitHub
+- VS Code
+
+📫 Connect with me:
+LinkedIn: linkedin.com/in/omsingh1-tech
