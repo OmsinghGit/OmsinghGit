@@ -3,7 +3,7 @@
 # <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35px"> Hi, I'm Om Singh
 
 <h3>
-Software Development Engineer • AI Engineer • Full Stack Developer
+Software Development Engineer • AI Engineering • MERN Developer
 </h3>
 
 <p>
