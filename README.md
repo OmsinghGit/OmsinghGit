@@ -66,19 +66,6 @@ Building intelligent software that solves real-world problems with AI and scalab
 <img src="https://skillicons.dev/icons?i=git,github,vscode,figma"/>
 </p>
 
----
-
-# 📈 GitHub Analytics
-
-<p align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=OmsinghGit&show_icons=true&theme=tokyonight&hide_border=true"/>
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=OmsinghGit&layout=compact&theme=tokyonight&hide_border=true"/>
-
-</p>
-
----
 
 # 🔥 GitHub Streak
 
