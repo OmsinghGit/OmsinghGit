@@ -89,17 +89,6 @@ public:
 <img src="https://skillicons.dev/icons?i=git,github,vscode,figma,postman"/>
 </p>
 
----
-
-# 📊 GitHub Analytics
-
-<div align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=OmsinghGit&show_icons=true&theme=tokyonight&hide_border=true"/>
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=OmsinghGit&layout=compact&theme=tokyonight&hide_border=true"/>
-
-</div>
 
 ---
 
