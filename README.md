@@ -408,3 +408,216 @@ A structured collection of DSA problems solved in C++.
 </div>
 
 ---
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+# 💻 Tech Arsenal
+
+<p align="center">
+<i>Technologies I use to design, build, deploy and scale applications.</i>
+</p>
+
+---
+
+## 👨‍💻 Languages
+
+<p align="center">
+<img src="https://skillicons.dev/icons?i=cpp,c,java,js,python" />
+</p>
+
+---
+
+## 🎨 Frontend Development
+
+<p align="center">
+<img src="https://skillicons.dev/icons?i=html,css,react,tailwind,vite" />
+</p>
+
+---
+
+## ⚙️ Backend Development
+
+<p align="center">
+<img src="https://skillicons.dev/icons?i=nodejs,express,fastapi" />
+</p>
+
+---
+
+## 🗄️ Database
+
+<p align="center">
+<img src="https://skillicons.dev/icons?i=mongodb,mysql" />
+</p>
+
+---
+
+## 🤖 Artificial Intelligence
+
+<p align="center">
+
+<img src="https://img.shields.io/badge/NVIDIA%20NIM-76B900?style=for-the-badge&logo=nvidia&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/Prompt%20Engineering-8A2BE2?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/Machine%20Learning-FF6F00?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/LLMs-412991?style=for-the-badge"/>
+
+</p>
+
+---
+
+## 🛠 Developer Tools
+
+<p align="center">
+<img src="https://skillicons.dev/icons?i=git,github,vscode,figma,vercel,render,postman" />
+</p>
+
+---
+
+# 📈 GitHub Dashboard
+
+<div align="center">
+
+<img width="48%" src="https://github-readme-stats.vercel.app/api?username=OmsinghGit&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github"/>
+
+<img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=OmsinghGit&layout=compact&theme=tokyonight&hide_border=true"/>
+
+</div>
+
+<br>
+
+<div align="center">
+
+<img width="70%" src="https://streak-stats.demolab.com?user=OmsinghGit&theme=tokyonight&hide_border=true"/>
+
+</div>
+
+---
+
+# 📊 Contribution Activity
+
+<div align="center">
+
+<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=OmsinghGit&theme=tokyo-night&hide_border=true"/>
+
+</div>
+
+---
+
+# 🏆 GitHub Achievements
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=OmsinghGit&theme=tokyonight&row=2&column=4&margin-w=15&margin-h=15&no-frame=true"/>
+
+</div>
+
+---
+
+# 📌 Developer Snapshot
+
+<div align="center">
+
+| 💡 Focus | 🚀 Status |
+|:---------|:---------|
+| Backend Development | 🟢 Active |
+| Full Stack Development | 🟢 Active |
+| Artificial Intelligence | 🟢 Learning |
+| System Design | 🟡 In Progress |
+| Open Source | 🔵 Exploring |
+
+</div>
+
+---
+
+# ⚡ Coding Interests
+
+<div align="center">
+
+```text
+💻 Software Engineering
+███████████████████████ 100%
+
+🤖 Artificial Intelligence
+██████████████████░░░░░ 80%
+
+🌐 Full Stack Development
+████████████████████░░░ 90%
+
+📚 Data Structures & Algorithms
+██████████████████████░ 95%
+
+⚙️ Backend Development
+███████████████████░░░░ 85%
+
+☁️ Cloud Computing
+███████████░░░░░░░░░░░░ 50%
+```
+
+</div>
+
+---
+
+# 📖 Currently Exploring
+
+<div align="center">
+
+| 💻 Engineering | 🤖 AI | 🚀 Career |
+|---------------|-------|-----------|
+| System Design | Agentic AI | SDE Interviews |
+| Backend Architecture | LLM Applications | Open Source |
+| Scalable APIs | Prompt Engineering | Production Projects |
+
+</div>
+
+---
+
+# 🌍 Developer Workflow
+
+<div align="center">
+
+```text
+Idea 💡
+   │
+   ▼
+Research 🔍
+   │
+   ▼
+Design 🎨
+   │
+   ▼
+Development 💻
+   │
+   ▼
+Testing 🧪
+   │
+   ▼
+Deployment 🚀
+   │
+   ▼
+Iteration 🔄
+```
+
+</div>
+
+---
+
+<div align="center">
+
+## 🚀 "Build. Learn. Improve. Repeat."
+
+</div>
+
+---
