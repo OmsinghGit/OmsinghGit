@@ -1,79 +1,136 @@
-# <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"> Hi, I'm Om Singh
+<div align="center">
 
-<h3 align="center">Software Development Engineer • AI Engineer • Full Stack Developer</h3>
+# 👋 Hi, I'm Om Singh
 
-<p align="center">
-Building intelligent software that solves real-world problems with AI and scalable web technologies.
+### **Software Development Engineer • AI Engineer • Full Stack Developer**
+
+<p>
+Building intelligent software, scalable web applications, and AI-powered products that solve real-world problems.
 </p>
 
-<p align="center">
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=700&lines=Software+Development+Engineer;AI+Engineer;Full+Stack+Developer;Building+Real-World+Projects;Always+Learning+%F0%9F%9A%80"/>
+
+<br>
+
 <a href="https://linkedin.com/in/omsingh1-tech">
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
 <a href="mailto:omsinghleet@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
-<a href="https://github.com/OmsinghGit">
-<img src="https://komarev.com/ghpvc/?username=OmsinghGit&style=for-the-badge&color=blue"/>
+<a href="YOUR_PORTFOLIO">
+<img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
 </a>
-</p>
+
+<a href="YOUR_RESUME">
+<img src="https://img.shields.io/badge/Resume-4285F4?style=for-the-badge&logo=googledrive&logoColor=white"/>
+</a>
+
+<br><br>
+
+<img src="https://komarev.com/ghpvc/?username=OmsinghGit&style=for-the-badge&color=58A6FF"/>
+
+</div>
 
 ---
 
-# 🚀 About Me
+# 💫 About Me
 
-* 🎓 Computer Science Engineering Student
-* 💻 Passionate about Software Engineering & Artificial Intelligence
-* 🤖 Exploring Agentic AI, LLM Applications & Full Stack Development
-* 📚 Solving Data Structures & Algorithms consistently
-* 🌱 Always learning by building real-world projects
-* 🎯 Goal: Build products used by millions.
+```txt
+🎓 Computer Science Engineering Student
+
+💻 Passionate about Software Engineering
+
+🤖 Building AI-powered applications
+
+🚀 Interested in Backend Systems & Full Stack Development
+
+📚 Solving Data Structures & Algorithms consistently
+
+🎯 Goal → Become a world-class Software Development Engineer
+```
 
 ---
 
-# 💼 Featured Projects
+# 🚀 Current Focus
+
+| 🚀 Building        | 📖 Learning          |
+| ------------------ | -------------------- |
+| 🤝 Agree2Met       | System Design        |
+| 🎬 CineMatch AI    | Backend Architecture |
+| 🤖 AI Study Mentor | AI Engineering       |
+| 📚 DSA Repository  | Cloud Fundamentals   |
+
+---
+
+# 🌟 Featured Projects
 
 ## 🤝 Agree2Met
 
 > AI-powered Digital Agreement Platform
 
+**Highlights**
+
 * AI-assisted agreement creation
-* Secure digital workflows
-* Modern SaaS Architecture
+* Secure authentication
+* Modern SaaS UI
+* Digital workflow automation
 
-**Tech Stack**
+**Tech**
 
-React • Tailwind CSS • Node.js • Express • MongoDB
+`React` `Node.js` `MongoDB` `Express` `AI`
+
+🔗 **Repository:** https://github.com/YOUR_REPO
+
+🌐 **Live Demo:** https://YOUR_DEMO
 
 ---
 
 ## 🎬 CineMatch AI
 
-> AI-powered Movie Recommendation System
+> AI Movie Recommendation System
+
+**Highlights**
 
 * Personalized recommendations
-* ML similarity engine
-* Fast search experience
+* Fast similarity search
+* Machine Learning powered
 
-**Tech Stack**
+**Tech**
 
-React • FastAPI • Python • Machine Learning
+`React` `FastAPI` `Python` `Machine Learning`
+
+🔗 Repository
+
+🌐 Live Demo
 
 ---
 
 ## 🤖 AI Study Mentor
 
-Built during NVIDIA Agentic AI Challenge
+> AI Assistant powered by NVIDIA NIM
 
-* NVIDIA NIM API
+**Highlights**
+
 * Prompt Engineering
-* Intelligent AI Assistant
+* AI Chat Experience
+* Intelligent Study Guidance
+
+**Tech**
+
+`Python`
+
+`NVIDIA NIM`
+
+`LLMs`
+
+`OpenAI SDK`
 
 ---
 
-# 💻 Tech Stack
+# 💻 Tech Arsenal
 
 ### Languages
 
@@ -84,7 +141,7 @@ Built during NVIDIA Agentic AI Challenge
 ### Frontend
 
 <p>
-<img src="https://skillicons.dev/icons?i=html,css,react,tailwind"/>
+<img src="https://skillicons.dev/icons?i=react,tailwind,html,css"/>
 </p>
 
 ### Backend
@@ -96,98 +153,136 @@ Built during NVIDIA Agentic AI Challenge
 ### Database
 
 <p>
-<img src="https://skillicons.dev/icons?i=mysql,mongodb"/>
+<img src="https://skillicons.dev/icons?i=mongodb,mysql"/>
 </p>
 
-### Tools
+### Tools & Platforms
 
 <p>
-<img src="https://skillicons.dev/icons?i=git,github,vscode,figma"/>
+<img src="https://skillicons.dev/icons?i=git,github,vscode,figma,vercel"/>
 </p>
 
 ---
 
-# 📈 GitHub Analytics
+# 📊 GitHub Dashboard
 
-<p align="center">
+<div align="center">
 
 <img height="170" src="https://github-readme-stats.vercel.app/api?username=OmsinghGit&show_icons=true&theme=tokyonight&hide_border=true"/>
 
 <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=OmsinghGit&layout=compact&theme=tokyonight&hide_border=true"/>
 
-</p>
+</div>
 
 ---
 
-# 🔥 GitHub Streak
-
-<p align="center">
+<div align="center">
 
 <img src="https://streak-stats.demolab.com?user=OmsinghGit&theme=tokyonight&hide_border=true"/>
 
-</p>
+</div>
 
 ---
 
-# 📊 Contribution Graph
-
-<p align="center">
+<div align="center">
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=OmsinghGit&theme=tokyo-night&hide_border=true"/>
 
-</p>
+</div>
 
 ---
 
-# 🏆 GitHub Trophies
-
-<p align="center">
+<div align="center">
 
 <img src="https://github-profile-trophy.vercel.app/?username=OmsinghGit&theme=tokyonight&no-frame=true&row=1&column=6"/>
 
-</p>
+</div>
 
 ---
 
-# 🌱 Currently Learning
+# 🏆 Achievements
 
-* Advanced Data Structures & Algorithms
-* Backend Development
-* System Design
-* Agentic AI
-* LLM Applications
-* Cloud Deployment
-
----
-
-# 📌 Goals for 2026
-
-* 🚀 Land an SDE Internship
-* ⭐ Build production-ready SaaS products
-* 🤖 Master AI Engineering
-* 📈 Contribute to Open Source
-* 💼 Strengthen System Design skills
+* 🥈 Smart India Hackathon Internal Round Qualifier
+* 🤖 NVIDIA Agentic AI Challenge
+* 📜 Generative AI Certifications
+* 💡 Multiple AI & Full Stack Projects
+* 💻 Active Software Engineering Learner
 
 ---
 
-# 📫 Let's Connect
+# 🗺 Engineering Journey
 
-<p align="center">
+```text
+2024
+ │
+ ├── Started Computer Science
+ │
+ ├── Learned C++
+ │
+ ├── Data Structures & Algorithms
+ │
+ ├── Frontend Development
+ │
+ ├── React Ecosystem
+ │
+ ├── Backend Development
+ │
+ ├── Machine Learning
+ │
+ ├── Artificial Intelligence
+ │
+ ├── Production Projects
+ │
+ └── SDE Journey 🚀
+```
 
-<a href="mailto:omsinghleet@gmail.com">
-<img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
+---
+
+# 🎯 2026 Goals
+
+* ✅ Land an SDE Internship
+* ✅ Build 5 Production-Ready Projects
+* ✅ Master Backend Development
+* ✅ Learn System Design
+* ✅ Contribute to Open Source
+* ✅ Strengthen AI Engineering Skills
+
+---
+
+# 💡 Developer Philosophy
+
+> **"Great software is not just about writing code. It's about solving meaningful problems with simplicity, scalability, and purpose."**
+
+---
+
+# 📬 Let's Connect
+
+<div align="center">
 
 <a href="https://linkedin.com/in/omsingh1-tech">
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
-</p>
+<a href="mailto:omsinghleet@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<a href="YOUR_PORTFOLIO">
+<img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
+</a>
+
+<a href="YOUR_LEETCODE">
+<img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white"/>
+</a>
+
+</div>
 
 ---
 
-<p align="center">
+<div align="center">
 
-⭐ Thanks for visiting my profile!
+### ⭐ Thanks for visiting my profile!
 
-</p>
+**Building. Learning. Improving. Every single day. 🚀**
+
+</div>
