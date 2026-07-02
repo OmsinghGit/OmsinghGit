@@ -33,45 +33,6 @@ Building intelligent software that solves real-world problems with AI and scalab
 
 ---
 
-# 💼 Featured Projects
-
-## 🤝 Agree2Met
-
-> AI-powered Digital Agreement Platform
-
-* AI-assisted agreement creation
-* Secure digital workflows
-* Modern SaaS Architecture
-
-**Tech Stack**
-
-React • Tailwind CSS • Node.js • Express • MongoDB
-
----
-
-## 🎬 CineMatch AI
-
-> AI-powered Movie Recommendation System
-
-* Personalized recommendations
-* ML similarity engine
-* Fast search experience
-
-**Tech Stack**
-
-React • FastAPI • Python • Machine Learning
-
----
-
-## 🤖 AI Study Mentor
-
-Built during NVIDIA Agentic AI Challenge
-
-* NVIDIA NIM API
-* Prompt Engineering
-* Intelligent AI Assistant
-
----
 
 # 💻 Tech Stack
 
@@ -157,16 +118,6 @@ Built during NVIDIA Agentic AI Challenge
 * Agentic AI
 * LLM Applications
 * Cloud Deployment
-
----
-
-# 📌 Goals for 2026
-
-* 🚀 Land an SDE Internship
-* ⭐ Build production-ready SaaS products
-* 🤖 Master AI Engineering
-* 📈 Contribute to Open Source
-* 💼 Strengthen System Design skills
 
 ---
 
