@@ -1,15 +1,193 @@
+# <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"> Hi, I'm Om Singh
 
-## 🌐 Here I am:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/omsingh1-tech) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:omsinghleet@gmail.com) 
+<h3 align="center">Software Development Engineer • AI Engineer • Full Stack Developer</h3>
 
-# 💻 Tech tools :
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Render](https://img.shields.io/badge/Render-%46E3B7.svg?style=for-the-badge&logo=render&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Adobe](https://img.shields.io/badge/adobe-%23FF0000.svg?style=for-the-badge&logo=adobe&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![nVIDIA](https://img.shields.io/badge/nVIDIA-%2376B900.svg?style=for-the-badge&logo=nVIDIA&logoColor=white)
+<p align="center">
+Building intelligent software that solves real-world problems with AI and scalable web technologies.
+</p>
 
+<p align="center">
+<a href="https://linkedin.com/in/omsingh1-tech">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
 
-### ✍️ A little more : 
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+<a href="mailto:omsinghleet@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<a href="https://github.com/OmsinghGit">
+<img src="https://komarev.com/ghpvc/?username=OmsinghGit&style=for-the-badge&color=blue"/>
+</a>
+</p>
 
 ---
-[![](https://komarev.com/ghpvc/?username=OmsinghGit&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+# 🚀 About Me
+
+* 🎓 Computer Science Engineering Student
+* 💻 Passionate about Software Engineering & Artificial Intelligence
+* 🤖 Exploring Agentic AI, LLM Applications & Full Stack Development
+* 📚 Solving Data Structures & Algorithms consistently
+* 🌱 Always learning by building real-world projects
+* 🎯 Goal: Build products used by millions.
+
+---
+
+# 💼 Featured Projects
+
+## 🤝 Agree2Met
+
+> AI-powered Digital Agreement Platform
+
+* AI-assisted agreement creation
+* Secure digital workflows
+* Modern SaaS Architecture
+
+**Tech Stack**
+
+React • Tailwind CSS • Node.js • Express • MongoDB
+
+---
+
+## 🎬 CineMatch AI
+
+> AI-powered Movie Recommendation System
+
+* Personalized recommendations
+* ML similarity engine
+* Fast search experience
+
+**Tech Stack**
+
+React • FastAPI • Python • Machine Learning
+
+---
+
+## 🤖 AI Study Mentor
+
+Built during NVIDIA Agentic AI Challenge
+
+* NVIDIA NIM API
+* Prompt Engineering
+* Intelligent AI Assistant
+
+---
+
+# 💻 Tech Stack
+
+### Languages
+
+<p>
+<img src="https://skillicons.dev/icons?i=cpp,c,java,js,python"/>
+</p>
+
+### Frontend
+
+<p>
+<img src="https://skillicons.dev/icons?i=html,css,react,tailwind"/>
+</p>
+
+### Backend
+
+<p>
+<img src="https://skillicons.dev/icons?i=nodejs,express"/>
+</p>
+
+### Database
+
+<p>
+<img src="https://skillicons.dev/icons?i=mysql,mongodb"/>
+</p>
+
+### Tools
+
+<p>
+<img src="https://skillicons.dev/icons?i=git,github,vscode,figma"/>
+</p>
+
+---
+
+# 📈 GitHub Analytics
+
+<p align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=OmsinghGit&show_icons=true&theme=tokyonight&hide_border=true"/>
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=OmsinghGit&layout=compact&theme=tokyonight&hide_border=true"/>
+
+</p>
+
+---
+
+# 🔥 GitHub Streak
+
+<p align="center">
+
+<img src="https://streak-stats.demolab.com?user=OmsinghGit&theme=tokyonight&hide_border=true"/>
+
+</p>
+
+---
+
+# 📊 Contribution Graph
+
+<p align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=OmsinghGit&theme=tokyo-night&hide_border=true"/>
+
+</p>
+
+---
+
+# 🏆 GitHub Trophies
+
+<p align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=OmsinghGit&theme=tokyonight&no-frame=true&row=1&column=6"/>
+
+</p>
+
+---
+
+# 🌱 Currently Learning
+
+* Advanced Data Structures & Algorithms
+* Backend Development
+* System Design
+* Agentic AI
+* LLM Applications
+* Cloud Deployment
+
+---
+
+# 📌 Goals for 2026
+
+* 🚀 Land an SDE Internship
+* ⭐ Build production-ready SaaS products
+* 🤖 Master AI Engineering
+* 📈 Contribute to Open Source
+* 💼 Strengthen System Design skills
+
+---
+
+# 📫 Let's Connect
+
+<p align="center">
+
+<a href="mailto:omsinghleet@gmail.com">
+<img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<a href="https://linkedin.com/in/omsingh1-tech">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+</p>
+
+---
+
+<p align="center">
+
+⭐ Thanks for visiting my profile!
+
+</p>
