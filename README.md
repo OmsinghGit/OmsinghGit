@@ -124,3 +124,287 @@ My current focus is on Software Engineering, Backend Development, Artificial Int
 </div>
 
 ---
+
+
+
+# 🚀 Featured Projects
+
+<p align="center">
+  <i>Building software that solves real-world problems.</i>
+</p>
+
+---
+
+<table>
+<tr>
+<td width="50%">
+
+## 🤝 Agree2Met
+
+### AI-Powered Digital Agreement Platform
+
+> A SaaS platform that simplifies digital agreements with AI-assisted workflows, secure authentication, and a modern user experience.
+
+### ✨ Features
+
+- 🤖 AI-powered agreement generation
+- 🔐 Secure authentication
+- 📄 Digital agreement workflow
+- 📱 Fully responsive UI
+- ⚡ Fast & scalable architecture
+
+### 🛠 Tech Stack
+
+<p>
+
+<img src="https://skillicons.dev/icons?i=react,nodejs,express,mongodb,tailwind"/>
+
+</p>
+
+### 🔗 Links
+
+<a href="YOUR_REPOSITORY_LINK">
+<img src="https://img.shields.io/badge/Repository-181717?style=for-the-badge&logo=github"/>
+</a>
+
+<a href="YOUR_DEMO_LINK">
+<img src="https://img.shields.io/badge/Live_Demo-00C853?style=for-the-badge&logo=vercel"/>
+</a>
+
+</td>
+
+<td width="50%">
+
+<img src="YOUR_PROJECT_SCREENSHOT_OR_GIF"/>
+
+</td>
+
+</tr>
+</table>
+
+---
+
+<table>
+<tr>
+
+<td width="50%">
+
+<img src="YOUR_PROJECT_SCREENSHOT_OR_GIF"/>
+
+</td>
+
+<td width="50%">
+
+## 🎬 CineMatch AI
+
+### AI Movie Recommendation System
+
+> Personalized movie recommendations using Machine Learning and content similarity algorithms.
+
+### ✨ Features
+
+- 🎯 Personalized recommendations
+- ⚡ Fast recommendation engine
+- 🔍 Intelligent similarity search
+- 🎬 Modern Netflix-inspired UI
+- 📊 Machine Learning powered
+
+### 🛠 Tech Stack
+
+<p>
+
+<img src="https://skillicons.dev/icons?i=react,python,fastapi"/>
+
+</p>
+
+### 🔗 Links
+
+<a href="YOUR_REPOSITORY_LINK">
+
+<img src="https://img.shields.io/badge/Repository-181717?style=for-the-badge&logo=github"/>
+
+</a>
+
+<a href="YOUR_DEMO_LINK">
+
+<img src="https://img.shields.io/badge/Live_Demo-00C853?style=for-the-badge&logo=vercel"/>
+
+</a>
+
+</td>
+
+</tr>
+</table>
+
+---
+
+<table>
+
+<tr>
+
+<td width="50%">
+
+## 🤖 AI Study Mentor
+
+### Intelligent Learning Assistant
+
+Built during the NVIDIA Agentic AI Challenge using NVIDIA NIM APIs.
+
+### ✨ Features
+
+- 💬 AI Chat Assistant
+- 🧠 Prompt Engineering
+- 📚 Personalized Study Guidance
+- ⚡ Fast AI Responses
+
+### 🛠 Tech Stack
+
+<p>
+
+<img src="https://skillicons.dev/icons?i=python"/>
+
+</p>
+
+<img src="https://img.shields.io/badge/NVIDIA_NIM-76B900?style=for-the-badge&logo=nvidia&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/OpenAI_SDK-412991?style=for-the-badge"/>
+
+### 🔗 Links
+
+<a href="YOUR_REPOSITORY_LINK">
+
+<img src="https://img.shields.io/badge/Repository-181717?style=for-the-badge&logo=github"/>
+
+</a>
+
+</td>
+
+<td width="50%">
+
+<img src="YOUR_PROJECT_SCREENSHOT_OR_GIF"/>
+
+</td>
+
+</tr>
+
+</table>
+
+---
+
+<table>
+
+<tr>
+
+<td width="50%">
+
+<img src="YOUR_DSA_IMAGE"/>
+
+</td>
+
+<td width="50%">
+
+## 📚 Data Structures & Algorithms
+
+A structured collection of DSA problems solved in C++.
+
+### 📈 Highlights
+
+- ✅ Arrays
+- ✅ Strings
+- ✅ Linked Lists
+- ✅ Trees
+- ✅ Graphs
+- ✅ Dynamic Programming
+- ✅ Competitive Programming
+
+### 🛠 Tech Stack
+
+<p>
+
+<img src="https://skillicons.dev/icons?i=cpp"/>
+
+</p>
+
+### 🔗 Links
+
+<a href="YOUR_DSA_REPO">
+
+<img src="https://img.shields.io/badge/Repository-181717?style=for-the-badge&logo=github"/>
+
+</a>
+
+</td>
+
+</tr>
+
+</table>
+
+---
+
+# 📊 Current Focus
+
+<table>
+
+<tr>
+
+<th>Project</th>
+
+<th>Status</th>
+
+<th>Progress</th>
+
+</tr>
+
+<tr>
+
+<td>🤝 Agree2Met</td>
+
+<td>🚀 Active</td>
+
+<td>██████████████████░░ 90%</td>
+
+</tr>
+
+<tr>
+
+<td>🎬 CineMatch AI</td>
+
+<td>🚀 Active</td>
+
+<td>████████████████░░░░ 80%</td>
+
+</tr>
+
+<tr>
+
+<td>📚 DSA Repository</td>
+
+<td>📖 Daily</td>
+
+<td>███████████████████░ 95%</td>
+
+</tr>
+
+<tr>
+
+<td>🤖 AI Learning</td>
+
+<td>🌱 Ongoing</td>
+
+<td>██████████████░░░░░░ 70%</td>
+
+</tr>
+
+</table>
+
+---
+
+<div align="center">
+
+### 💻 Every project is built with one goal:
+
+## **Solve real problems. Write clean code. Keep learning.**
+
+</div>
+
+---
