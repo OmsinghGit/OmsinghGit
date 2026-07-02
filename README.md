@@ -112,16 +112,6 @@ public:
 
 ---
 
-# 🏆 GitHub Trophies
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=OmsinghGit&theme=tokyonight&no-frame=true&row=1&column=6"/>
-
-</div>
-
----
-
 # 🚀 Featured Projects
 
 | Project | Description |
