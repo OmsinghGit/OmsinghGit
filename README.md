@@ -514,18 +514,6 @@ A structured collection of DSA problems solved in C++.
 
 </div>
 
----
-
-# 🏆 GitHub Achievements
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=OmsinghGit&theme=tokyonight&row=2&column=4&margin-w=15&margin-h=15&no-frame=true"/>
-
-</div>
-
----
-
 # 📌 Developer Snapshot
 
 <div align="center">
@@ -584,39 +572,223 @@ A structured collection of DSA problems solved in C++.
 
 ---
 
-# 🌍 Developer Workflow
+
+# 🏆 Achievements & Milestones
+
+<p align="center">
+<i>Every milestone represents continuous learning, consistency, and growth.</i>
+</p>
+
+---
+
+<div align="center">
+
+| 🏅 Achievement | Status |
+|:---------------|:------:|
+| 🥈 Smart India Hackathon (Internal Round) | ✅ |
+| 🤖 NVIDIA Agentic AI Challenge | ✅ |
+| 📜 Generative AI Certifications | ✅ |
+| 💻 Full Stack Development Projects | ✅ |
+| 📚 Consistent DSA Practice | 🚀 |
+| 🌱 Open Source Journey | 🚧 |
+
+</div>
+
+---
+
+# 🛣️ Engineering Journey
+
+```text
+2024
+│
+├── 🎓 Started B.Tech in Computer Science
+│
+├── 💻 Learned C & C++
+│
+├── 📚 Started Data Structures & Algorithms
+│
+├── 🌐 Learned HTML • CSS • JavaScript
+│
+├── ⚛️ Built Projects with React
+│
+├── ⚙️ Learned Backend Development
+│
+├── 🗄️ Worked with MongoDB & MySQL
+│
+├── 🤖 Entered AI & Machine Learning
+│
+├── 🚀 Built Production-Level Projects
+│
+└── 🎯 Preparing for Software Engineering Roles
+```
+
+---
+
+# 🎯 Current Goals
+
+<div align="center">
+
+| Goal | Progress |
+|:-----|:--------:|
+| 🚀 Land an SDE Internship | 🟡 |
+| 💻 Build 5+ Production Projects | 🟢 |
+| 🤖 Master AI Engineering | 🟡 |
+| 📚 Solve 500+ DSA Problems | 🟡 |
+| 🌍 Contribute to Open Source | 🔵 |
+| ☁️ Learn Cloud & DevOps | 🔵 |
+
+</div>
+
+---
+
+# 📚 Learning Roadmap
+
+```text
+✅ C++
+      │
+      ▼
+✅ Data Structures & Algorithms
+      │
+      ▼
+✅ Frontend Development
+      │
+      ▼
+✅ React Ecosystem
+      │
+      ▼
+✅ Backend Development
+      │
+      ▼
+🟡 System Design
+      │
+      ▼
+🟡 Cloud Computing
+      │
+      ▼
+🟡 DevOps
+      │
+      ▼
+🟢 Artificial Intelligence
+      │
+      ▼
+🎯 Software Development Engineer
+```
+
+---
+
+# 💼 What I'm Building
+
+<div align="center">
+
+| 🚀 Project | Description |
+|------------|-------------|
+| 🤝 Agree2Met | AI-powered Digital Agreement Platform |
+| 🎬 CineMatch AI | Movie Recommendation System |
+| 🤖 AI Study Mentor | NVIDIA NIM Powered Assistant |
+| 📚 DSA Repository | Interview Preparation Repository |
+| 🌐 Portfolio Website | Personal Developer Portfolio |
+
+</div>
+
+---
+
+# 📜 Certifications
+
+<div align="center">
+
+🏅 Generative AI Certification
+
+🏅 NVIDIA Agentic AI Challenge
+
+🏅 Data Science & AI Training
+
+🏅 Full Stack Development Learning
+
+</div>
+
+---
+
+# ❤️ Beyond Coding
+
+```text
+📖 Reading about Technology & AI
+
+🤝 Participating in Hackathons
+
+💡 Solving Real-World Problems
+
+🎯 Continuous Self Improvement
+
+🌱 Learning Something New Every Week
+```
+
+---
+
+# 🧠 Engineering Principles
+
+> ### Write code that is:
+>
+> - ✔ Readable
+> - ✔ Maintainable
+> - ✔ Scalable
+> - ✔ Efficient
+> - ✔ User-Centric
+
+---
+
+# ⚡ Current Mission
 
 <div align="center">
 
 ```text
-Idea 💡
-   │
-   ▼
-Research 🔍
-   │
-   ▼
-Design 🎨
-   │
-   ▼
-Development 💻
-   │
-   ▼
-Testing 🧪
-   │
-   ▼
-Deployment 🚀
-   │
-   ▼
-Iteration 🔄
+Learn
+
+   ↓
+
+Build
+
+   ↓
+
+Deploy
+
+   ↓
+
+Improve
+
+   ↓
+
+Repeat
 ```
 
 </div>
 
 ---
 
+# 📊 2026 Vision
+
 <div align="center">
 
-## 🚀 "Build. Learn. Improve. Repeat."
+| 🎯 Vision | Status |
+|-----------|:------:|
+| 💼 Software Development Engineer | 🚀 |
+| 🤖 AI Engineer | 🚀 |
+| 🌍 Open Source Contributor | 🌱 |
+| 🏗️ Build Useful Products | 💡 |
+| 📈 Continuous Learning | ♾️ |
+
+</div>
+
+---
+
+# 💭 Developer Philosophy
+
+> **"I believe the best way to learn software engineering is by building products that solve real problems. Every project is an opportunity to improve architecture, code quality, and user experience."**
+
+---
+
+<div align="center">
+
+### 🌟 _"Small improvements, consistently applied, create extraordinary results."_
 
 </div>
 
