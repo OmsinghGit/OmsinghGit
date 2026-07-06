@@ -66,18 +66,11 @@ public:
 ## Tools & Platforms
 
 <p align="left">
-
-<!-- Skill Icons -->
 <img src="https://skillicons.dev/icons?i=git,github,vscode,figma,cursor"/>
-
-<!-- Custom Icons -->
-<img src="https://cdn.simpleicons.org/openai" alt="ChatGPT" width="48" height="48"/>
-<img src="https://cdn.simpleicons.org/google" alt="Google AI Studio" width="48" height="48"/>
-<img src="https://registry.npmmirror.com/@lobehub/icons-static-png/latest/files/dark/devin-color.png" alt="Devin AI" width="48" height="48"/>
-
+<img src="https://img.shields.io/badge/ChatGPT-74AA9C?style=flat-square&logo=openai&logoColor=white"/>
+<img src="https://img.shields.io/badge/Google%20AI-4285F4?style=flat-square&logo=google&logoColor=white"/>
+<img src="https://img.shields.io/badge/Devin-AI-black?style=flat-square"/>
 </p>
-<img src="https://cdn.simpleicons.org/google" alt="Google AI" width="48" height="48"/>
-
 ---
 
 # 🔥 GitHub Streak
