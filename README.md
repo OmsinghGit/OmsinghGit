@@ -62,16 +62,10 @@ public:
 ## Languages
 
 <img src="https://skillicons.dev/icons?i=cpp,c,java,python,js"/>
-</p>
-<p align="left">
 <img src="https://skillicons.dev/icons?i=html,css,react,tailwind"/>
-</p>
-<p align="left">
 <img src="https://skillicons.dev/icons?i=nodejs,express"/>
-</p>
-<p align="left">
 <img src="https://skillicons.dev/icons?i=mysql,mongodb"/>
-</p>
+
 
 ## Tools & Platforms
 
