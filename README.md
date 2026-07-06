@@ -66,7 +66,15 @@ public:
 ## Tools & Platforms
 
 <p align="left">
-<img src="https://skillicons.dev/icons?i=git,github,vscode,figma,devin,cursor,antigravity"/>
+
+<!-- Skill Icons -->
+<img src="https://skillicons.dev/icons?i=git,github,vscode,figma,cursor"/>
+
+<!-- Custom Icons -->
+<img src="https://cdn.simpleicons.org/openai" alt="ChatGPT" width="48" height="48"/>
+<img src="https://cdn.simpleicons.org/google" alt="Google AI Studio" width="48" height="48"/>
+<img src="https://registry.npmmirror.com/@lobehub/icons-static-png/latest/files/dark/devin-color.png" alt="Devin AI" width="48" height="48"/>
+
 </p>
 
 
