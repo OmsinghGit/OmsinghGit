@@ -66,7 +66,7 @@ public:
 ## Tools & Platforms
 
 <p align="left">
-<img src="https://skillicons.dev/icons?i=git,github,vscode,figma,postman"/>
+<img src="https://skillicons.dev/icons?i=git,github,vscode,figma,devin,cursor,antigravity"/>
 </p>
 
 
