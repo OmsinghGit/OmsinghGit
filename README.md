@@ -61,24 +61,14 @@ public:
 
 ## Languages
 
-<p align="left">
 <img src="https://skillicons.dev/icons?i=cpp,c,java,python,js"/>
 </p>
-
-## Frontend
-
 <p align="left">
 <img src="https://skillicons.dev/icons?i=html,css,react,tailwind"/>
 </p>
-
-## Backend
-
 <p align="left">
 <img src="https://skillicons.dev/icons?i=nodejs,express"/>
 </p>
-
-## Databases
-
 <p align="left">
 <img src="https://skillicons.dev/icons?i=mysql,mongodb"/>
 </p>
