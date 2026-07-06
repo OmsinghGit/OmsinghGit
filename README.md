@@ -65,16 +65,7 @@ public:
 
 ## Tools & Platforms
 
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,figma,cursor" />
-
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" width="48" height="48"/>
-  <img src="https://www.vectorlogo.zone/logos/openai/openai-icon.svg" width="48" height="48"/>
-</p>
-
-<p align="left">
-  <img src="https://img.shields.io/badge/Devin-AI-111111?style=for-the-badge&logoColor=white"/>
-</p>
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,figma,gamma" />
 
 ---
 
