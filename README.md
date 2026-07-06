@@ -1,12 +1,16 @@
 <div align="center">
 
-# 👋 Hi, I'm Om Singh
+# <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35px"> Hi, I'm Om Singh
 
-### Software Engineer • AI Engineer • Full Stack Developer
+<h3>
+Software Development Engineer • AI Engineering • MERN Developer
+</h3>
 
-Building intelligent software with AI, scalable backend systems, and modern web technologies.
+<p>
+Building intelligent software using AI, scalable backend systems, and modern web technologies.
+</p>
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=24&duration=3500&pause=1000&color=3B82F6&center=true&vCenter=true&width=750&lines=Software+Engineer;AI+Engineer;Full+Stack+Developer;Building+AI-Powered+Products;Always+Learning+Always+Building" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=24&duration=3500&pause=1000&color=3B82F6&center=true&vCenter=true&width=700&lines=Software+Development+Engineer;AI+Engineer;Full+Stack+Developer;Building+Products+That+Matter" />
 
 <br>
 
@@ -26,45 +30,30 @@ Building intelligent software with AI, scalable backend systems, and modern web 
 
 ---
 
-# 👨‍💻 Engineering Snapshot
+# 🚀 About Me
 
-```yaml
-Name: Om Singh
-Role: Software Engineer | AI Engineer
+```cpp
+class OmSingh {
 
-Education:
-  B.Tech Computer Science Engineering
+public:
 
-Focus Areas:
-  - Artificial Intelligence
-  - Full Stack Development
-  - Backend Engineering
-  - System Design
-  - Data Structures & Algorithms
+    string role = "Software Development Engineer";
 
-Currently Building:
-  - AI Study Mentor
-  - Agree2Met
-  - AI-powered Developer Tools
+    vector<string> interests = {
+        "Artificial Intelligence",
+        "Full Stack Development",
+        "Backend Engineering",
+        "Data Structures & Algorithms",
+        "System Design"
+    };
 
-Learning:
-  - Agentic AI
-  - LLM Applications
-  - Cloud Technologies
+    string currentlyLearning =
+        "Agentic AI • LLM Applications • Backend Development";
 
-Career Goal:
-  Build scalable AI-powered products used by millions.
+    string goal =
+        "Build scalable products used by millions.";
+};
 ```
-
----
-
-# 💡 Engineering Philosophy
-
-- 🚀 Build products that solve real-world problems.
-- 🧠 Understand concepts instead of memorizing syntax.
-- ⚙️ Write clean, maintainable, and scalable code.
-- 📚 Learn continuously and share knowledge.
-- 🌱 Improve a little every day.
 
 ---
 
@@ -72,19 +61,7 @@ Career Goal:
 
 ## Languages
 
-<img src="https://skillicons.dev/icons?i=cpp,c,java,python,js,html,css"/>
-
-## Frontend
-
-<img src="https://skillicons.dev/icons?i=react,tailwind"/>
-
-## Backend
-
-<img src="https://skillicons.dev/icons?i=nodejs,express"/>
-
-## Database
-
-<img src="https://skillicons.dev/icons?i=mysql,mongodb"/>
+<img src="https://skillicons.dev/icons?i=cpp,c,java,python,js,html,css,react,tailwind,nodejs,express,mongodb,mysql"/>
 
 ## Tools & Platforms
 
@@ -92,7 +69,7 @@ Career Goal:
 
 ## AI & Developer Tools
 
-<p>
+<p align="left">
 
 <img src="https://img.shields.io/badge/ChatGPT-74AA9C?style=for-the-badge&logo=openai&logoColor=white"/>
 
@@ -105,29 +82,6 @@ Career Goal:
 <img src="https://img.shields.io/badge/Devin_AI-111111?style=for-the-badge"/>
 
 </p>
-
----
-
-# 🚀 Featured Projects
-
-| Project | Description | Tech |
-|---------|-------------|------|
-| 🤖 **AI Study Mentor** | AI assistant powered by NVIDIA NIM APIs with intelligent prompt routing | Python • NVIDIA NIM • OpenAI SDK |
-| 📄 **Agree2Met** | Digital agreement platform with secure commitments and AI assistance | React • Node.js • MongoDB |
-| 🎬 **CineMatch AI** | Movie recommendation platform using Machine Learning | Python • ML |
-| 🌐 **Portfolio Website** | Personal portfolio showcasing projects and experience | React • Tailwind CSS |
-
----
-
-# 🏆 GitHub Analytics
-
-<div align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=OmsinghGit&show_icons=true&theme=tokyonight&hide_border=true"/>
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=OmsinghGit&layout=compact&theme=tokyonight&hide_border=true"/>
-
-</div>
 
 ---
 
@@ -151,29 +105,38 @@ Career Goal:
 
 ---
 
+# 🚀 Featured Projects
+
+| Project | Description |
+|---------|-------------|
+| 🎬 **CineMatch AI** | AI-powered movie recommendation platform using Machine Learning |
+| 🤖 **AI Study Mentor** | Agentic AI assistant powered by NVIDIA NIM APIs |
+| 📄 **Agree2Met** | Digital agreement platform for secure online commitments |
+
+---
+
 # 🌱 Currently Exploring
 
 - 🤖 Agentic AI
 - 🧠 Large Language Models (LLMs)
 - ⚙️ Backend Development
 - ☁️ Cloud Deployment
-- 📚 Advanced DSA
+- 📚 Advanced Data Structures & Algorithms
 - 🏗️ System Design
 
 ---
 
-# 🎯 2026 Roadmap
+# 🎯 2026 Goals
 
-- ✅ 500+ DSA Problems
-- 🚀 Build 5 Production-Ready AI Projects
-- 🌍 Contribute to Open Source
-- 💼 Secure an SDE Internship
-- ⚙️ Master Backend Engineering
-- ☁️ Learn Cloud & DevOps
+- ✅ Solve 500+ DSA Problems
+- ✅ Build Production-Ready AI Projects
+- ✅ Contribute to Open Source
+- ✅ Secure an SDE Internship
+- ✅ Master System Design
 
 ---
 
-# 📫 Connect With Me
+# 🤝 Connect With Me
 
 <div align="center">
 
@@ -195,10 +158,8 @@ Career Goal:
 
 <div align="center">
 
-## 💬 Quote
+### ⭐ "Code. Learn. Build. Repeat."
 
-> **"Build with curiosity. Learn with consistency. Ship with confidence."**
+Thanks for visiting my profile!
 
-⭐ If you like my work, consider giving a star to my repositories!
-
-</div>
+</div>  
