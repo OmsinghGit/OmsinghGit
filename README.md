@@ -76,7 +76,7 @@ public:
 <img src="https://registry.npmmirror.com/@lobehub/icons-static-png/latest/files/dark/devin-color.png" alt="Devin AI" width="48" height="48"/>
 
 </p>
-
+<img src="https://cdn.simpleicons.org/google" alt="Google AI" width="48" height="48"/>
 
 ---
 
