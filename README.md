@@ -61,11 +61,7 @@ public:
 
 ## Languages
 
-<img src="https://skillicons.dev/icons?i=cpp,c,java,python,js"/>
-<img src="https://skillicons.dev/icons?i=html,css,react,tailwind"/>
-<img src="https://skillicons.dev/icons?i=nodejs,express"/>
-<img src="https://skillicons.dev/icons?i=mysql,mongodb"/>
-
+<img src="https://skillicons.dev/icons?i=cpp,c,java,python,js,html,css,react,tailwind,nodejs,express,mysql,mangodb"/>
 
 ## Tools & Platforms
 
