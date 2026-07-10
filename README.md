@@ -57,7 +57,7 @@ public:
 
 ---
 
-# 💻 Technologiee
+# 💻 Technologies
 
 ## Languages
 
