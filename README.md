@@ -57,7 +57,7 @@ public:
 
 ---
 
-# 💻 Tech Stack
+# 💻 Technologiee
 
 ## Languages
 
