@@ -65,7 +65,7 @@ public:
 
 ## Tools & Platforms
 
-<img src="https://skillicons.dev/icons?i=git,github,vscode,figma,postman"/>
+<img src="https://skillicons.dev/icons?i=git,github,vscode,figma,postman,git"/>
 
 ## AI & Developer Tools
 
