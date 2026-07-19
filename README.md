@@ -103,32 +103,13 @@ public:
 
 </div>
 
----
-# 🚀 Featured Projects
-
-### 🎬 CineMatch AI
-> AI-powered movie recommendation platform using Machine Learning.
-
----
-
-### 🤖 AI Study Mentor
-> Agentic AI assistant powered by NVIDIA NIM APIs.
-
----
-
-### 🌆 URBAN AI
-> Smart city platform leveraging AI for intelligent urban solutions.
-
----
-
-### 📄 Agree2Met
-> Digital agreement platform for secure online commitments.
-
----
-
-### 📚 DSA Mastery
-> Well-organized repository of DSA patterns, solutions, and interview preparation.
-
+---| 🚀 Project | Description |
+|------------|-------------|
+| 🎬 **[CineMatch AI](https://github.com/OmsinghGit/cine-match-ai)** | Personalized movie recommendations using Machine Learning |
+| 🤖 **[AI Study Mentor](https://github.com/OmsinghGit/5-Days-of-Agentic-AI)** | Agentic AI assistant powered by NVIDIA NIM APIs |
+| 🌆 **[URBAN AI](https://github.com/OmsinghGit/Urban-AI)** | Smart city platform leveraging AI |
+| 📄 **[Agree2Met](https://github.com/OmsinghGit/Agree2Met)** | Secure digital agreement platform |
+| 📚 **[DSA Mastery](https://github.com/OmsinghGit/dsa-mastery)** | DSA solutions, notes, and interview preparation |
 ---
 
 # 🌱 Currently Exploring
