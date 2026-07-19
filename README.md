@@ -102,15 +102,22 @@ public:
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=OmsinghGit&theme=tokyo-night&hide_border=true"/>
 
 </div>
+# 🚀 Featured Projects
 
-| 🚀 Project | Description |
-|------------|-------------|
-| 🎬 **[CineMatch AI](https://github.com/OmsinghGit/cine-match-ai)** | Personalized movie recommendations using Machine Learning |
-| 🤖 **[AI Study Mentor](https://github.com/OmsinghGit/5-Days-of-Agentic-AI)** | Agentic AI assistant powered by NVIDIA NIM APIs |
-| 🌆 **[URBAN AI](https://github.com/OmsinghGit/Urban-AI)** | Smart city platform leveraging AI |
-| 📄 **[Agree2Met](https://github.com/OmsinghGit/Agree2Met)** | Secure digital agreement platform |
-| 📚 **[DSA Mastery](https://github.com/OmsinghGit/dsa-mastery)** | DSA solutions, notes, and interview preparation |
+- 🤖 **[AI Study Mentor](https://github.com/OmsinghGit/5-Days-of-Agentic-AI)**  
+  *Agentic AI assistant powered by NVIDIA NIM APIs.*
 
+- 🌆 **[URBAN AI](https://github.com/OmsinghGit/Urban-AI)**  
+  *Smart city platform leveraging AI.*
+
+- 📄 **[Agree2Met](https://github.com/OmsinghGit/Agree2Met)**  
+  *Secure digital agreement platform.*
+
+- 🎬 **[CineMatch AI](https://github.com/OmsinghGit/cine-match-ai)**  
+  *AI-powered movie recommendation system using Machine Learning.*
+
+- 📚 **[DSA Mastery](https://github.com/OmsinghGit/dsa-mastery)**  
+  *Structured DSA repository with patterns, notes, and interview-ready solutions.*
 
 # 🌱 Currently Exploring
 
