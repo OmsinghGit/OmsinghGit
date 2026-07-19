@@ -104,14 +104,30 @@ public:
 </div>
 
 ---
-
 # 🚀 Featured Projects
 
-| Project | Description |
-|---------|-------------|
-| 🎬 **CineMatch AI** | AI-powered movie recommendation platform using Machine Learning |
-| 🤖 **AI Study Mentor** | Agentic AI assistant powered by NVIDIA NIM APIs |
-| 📄 **Agree2Met** | Digital agreement platform for secure online commitments |
+### 🎬 CineMatch AI
+> AI-powered movie recommendation platform using Machine Learning.
+
+---
+
+### 🤖 AI Study Mentor
+> Agentic AI assistant powered by NVIDIA NIM APIs.
+
+---
+
+### 🌆 URBAN AI
+> Smart city platform leveraging AI for intelligent urban solutions.
+
+---
+
+### 📄 Agree2Met
+> Digital agreement platform for secure online commitments.
+
+---
+
+### 📚 DSA Mastery
+> Well-organized repository of DSA patterns, solutions, and interview preparation.
 
 ---
 
