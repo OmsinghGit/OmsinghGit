@@ -102,7 +102,10 @@ public:
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=OmsinghGit&theme=tokyo-night&hide_border=true"/>
 
 </div>
-# 🚀 Featured Projects
+
+---
+
+🚀 Featured Projects
 
 - 🤖 **[AI Study Mentor](https://github.com/OmsinghGit/5-Days-of-Agentic-AI)**  
   *Agentic AI assistant powered by NVIDIA NIM APIs.*
@@ -118,25 +121,27 @@ public:
 
 - 📚 **[DSA Mastery](https://github.com/OmsinghGit/dsa-mastery)**  
   *Structured DSA repository with patterns, notes, and interview-ready solutions.*
-
+  
+---
 # 🌱 Currently Exploring
 
-- 🤖 Agentic AI
-- 🧠 Large Language Models (LLMs)
-- ⚙️ Backend Development
-- ☁️ Cloud Deployment
+- 🤖 Building Agentic AI Applications & AI Workflows
+- 🧠 Large Language Models (LLMs) & Prompt Engineering
+- ⚡ Backend Development with Node.js & Express
+- ☁️ Cloud Deployment (Docker, Vercel & AWS)
 - 📚 Advanced Data Structures & Algorithms
-- 🏗️ System Design
+- 🏗️ Scalable System Design & Software Architecture
 
 ---
 
 # 🎯 2026 Goals
 
-- ✅ Solve 500+ DSA Problems
-- ✅ Build Production-Ready AI Projects
-- ✅ Contribute to Open Source
-- ✅ Secure an SDE Internship
-- ✅ Master System Design
+- 🧩 Solve **500+ DSA Problems**
+- 🤖 Build & Deploy **Production-Ready AI Applications**
+- 🌍 Become an Active **Open Source Contributor**
+- ☁️ Deploy Scalable Full-Stack Applications
+- 💼 Secure an **SDE / AI Engineer Internship**
+- 🏗️ Master **Scalable System Design**# 🎯 2026 Goals
 
 ---
 
@@ -144,7 +149,7 @@ public:
 
 <div align="center">
 
-<a href="mailto:omsinghleet@gmail.com">
+<a href="mailto:omsingh1.tech@gmail.com">
 <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
@@ -152,9 +157,6 @@ public:
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
-<a href="https://github.com/OmsinghGit">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
-</a>
 
 </div>
 
