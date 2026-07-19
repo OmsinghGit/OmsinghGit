@@ -103,14 +103,14 @@ public:
 
 </div>
 
----| 🚀 Project | Description |
+| 🚀 Project | Description |
 |------------|-------------|
 | 🎬 **[CineMatch AI](https://github.com/OmsinghGit/cine-match-ai)** | Personalized movie recommendations using Machine Learning |
 | 🤖 **[AI Study Mentor](https://github.com/OmsinghGit/5-Days-of-Agentic-AI)** | Agentic AI assistant powered by NVIDIA NIM APIs |
 | 🌆 **[URBAN AI](https://github.com/OmsinghGit/Urban-AI)** | Smart city platform leveraging AI |
 | 📄 **[Agree2Met](https://github.com/OmsinghGit/Agree2Met)** | Secure digital agreement platform |
 | 📚 **[DSA Mastery](https://github.com/OmsinghGit/dsa-mastery)** | DSA solutions, notes, and interview preparation |
----
+
 
 # 🌱 Currently Exploring
 
