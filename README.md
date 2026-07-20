@@ -30,7 +30,7 @@ Building intelligent software using AI, scalable backend systems, and modern web
 
 ---
 
-# 🚀 About Me
+# 🚀About Me
 
 ```cpp
 class OmSingh {
