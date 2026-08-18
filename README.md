@@ -8,17 +8,15 @@
 
 <div align="center">
 
-# <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35px"> Hi, I'm Om Singh
+# 👋 Hi, I'm Om Singh
 
-<h3>
-Software Development Engineer • AI Engineering • MERN Developer
-</h3>
+### Software Development Engineer • AI Engineering • MERN Developer
 
-<p>
-Building intelligent software using AI, scalable backend systems, and modern web technologies.
-</p>
+Building intelligent software using **AI, scalable backend systems, and modern web technologies.**
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=24&duration=3500&pause=1000&color=FF4D5A&center=true&vCenter=true&width=700&lines=Software+Development+Engineer;AI+Engineer;Full+Stack+Developer;Building+Products+That+Matter" />
+<br>
+
+![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=24&duration=3500&pause=1000&color=FF4D5A&center=true&vCenter=true&width=700&lines=Software+Development+Engineer;AI+Engineer;Full+Stack+Developer;Building+Products+That+Matter)
 
 <br>
 
@@ -61,3 +59,135 @@ public:
     string goal =
         "Build scalable products used by millions.";
 };
+```
+
+---
+
+# 💻 Tech Stacks
+
+## Languages
+
+<img src="https://skillicons.dev/icons?i=cpp,c,java,python,js,html,css,react,tailwind,nodejs,express,mongodb,mysql"/>
+
+## Tools & Platforms
+
+<img src="https://skillicons.dev/icons?i=git,github,vscode,figma,postman,canva"/>
+
+## AI & Developer Tools
+
+<p align="left">
+
+<img src="https://img.shields.io/badge/ChatGPT-74AA9C?style=for-the-badge&logo=openai&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/Google_AI_Studio-4285F4?style=for-the-badge&logo=google&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/Cursor-000000?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/Claude-D97706?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/Devin_AI-111111?style=for-the-badge"/>
+
+</p>
+
+---
+
+# 🔥 GitHub Streak
+
+<div align="center">
+
+<img
+src="https://github-readme-streak-stats-eight.vercel.app?user=OmsinghGit&theme=tokyonight&hide_border=true"
+/>
+
+</div>
+
+---
+
+# 📈 Contribution Graph
+
+<div align="center">
+
+<img
+src="https://github-readme-activity-graph.vercel.app/graph?username=OmsinghGit&theme=tokyo-night&hide_border=true"
+/>
+
+</div>
+
+---
+
+# 🚀 Featured Projects
+
+* 🤖 **[AI Study Mentor](https://github.com/OmsinghGit/5-Days-of-Agentic-AI)**  
+  *Agentic AI assistant powered by NVIDIA NIM APIs.*
+
+* 🌆 **[URBAN AI](https://github.com/OmsinghGit/Urban-AI)**  
+  *Smart city platform leveraging AI.*
+
+* 📄 **[Agree2Met](https://github.com/OmsinghGit/Agree2Met)**  
+  *Secure digital agreement platform.*
+
+* 🎬 **[CineMatch AI](https://github.com/OmsinghGit/cine-match-ai)**  
+  *AI-powered movie recommendation system using Machine Learning.*
+
+* 📚 **[DSA Mastery](https://github.com/OmsinghGit/dsa-mastery)**  
+  *Structured DSA repository with patterns, notes, and interview-ready solutions.*
+
+---
+
+# 🌱 Currently Exploring
+
+* 🤖 Building Agentic AI Applications & AI Workflows
+* 🧠 Large Language Models (LLMs) & Prompt Engineering
+* ⚡ Backend Development with Node.js & Express
+* ☁️ Cloud Deployment (Docker, Vercel & AWS)
+* 📚 Advanced Data Structures & Algorithms
+* 🏗️ Scalable System Design & Software Architecture
+
+---
+
+# 🎯 2026 Goals
+
+* 🧩 Solve **500+ DSA Problems**
+* 🤖 Build & Deploy **Production-Ready AI Applications**
+* 🌍 Become an Active **Open Source Contributor**
+* ☁️ Deploy Scalable Full-Stack Applications
+* 💼 Secure an **SDE / AI Engineer Internship**
+* 🏗️ Master **Scalable System Design**
+
+---
+
+# 🤝 Connect With Me
+
+<div align="center">
+
+<a href="mailto:omsingh1.tech@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<a href="https://linkedin.com/in/omsingh1-tech">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="https://github.com/OmsinghGit">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+</div>
+
+---
+
+<div align="center">
+
+### ⭐ "Code. Learn. Build. Repeat."
+
+Thanks for visiting my profile!
+
+</div>
+
+<!-- 🔴 MINIMAL BOTTOM ANIMATION -->
+
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF4D5A,50:161B22,100:0B0F14&height=75&section=footer" width="100%"/>
+
+</div>
