@@ -39,6 +39,7 @@ I’m driven by a simple loop: **learn → build → understand → improve** �
 ## 🛠️ Technical Stack
 
 **Languages Dev & Tools**
+
 `C++` `C` `Java` `Python` `JavaScript`
 `HTML` `CSS` `React` `Tailwind` `Node.js` `Express`
 `MongoDB` `MySQL` `Git` `GitHub` `VS Code` `Postman`
@@ -51,16 +52,17 @@ I’m driven by a simple loop: **learn → build → understand → improve** �
 ## 🔥 GitHub Activity
 
 <div align="center">
+
 <img
 src="https://github-readme-streak-stats-eight.vercel.app?user=OmsinghGit&hide_border=true&background=0D1117&ring=FF4D5A&fire=FF4D5A&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=FF6B78&sideLabels=9CA3AF&dates=6B7280"
-width="85%"
+width="65%"
 />
 
 <br><br>
 
 <img
 src="https://github-readme-activity-graph.vercel.app/graph?username=OmsinghGit&bg_color=0D1117&color=9CA3AF&line=FF4D5A&point=FFFFFF&area=true&area_color=FF4D5A&hide_border=true&custom_title=Contribution%20Activity"
-width="92%"
+width="75%"
 />
 
 </div>
