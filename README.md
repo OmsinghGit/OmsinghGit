@@ -92,13 +92,41 @@ Movie recommendation system exploring personalized content discovery.
 
 ## 🔥 GitHub Activity
 
+---
+
+## ⚡ Engineering Activity
+
 <div align="center">
 
-<img src="https://github-readme-streak-stats-eight.vercel.app?user=OmsinghGit&theme=tokyonight&hide_border=true" />
+<p>
+  <b>Building consistently. Learning continuously.</b>
+  <br>
+  <sub>My GitHub activity reflects the work behind the projects.</sub>
+</p>
 
-<br/><br/>
+<br>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=OmsinghGit&theme=tokyo-night&hide_border=true" />
+<!-- Streak -->
+<img
+  src="https://github-readme-streak-stats-eight.vercel.app?user=OmsinghGit&hide_border=true&background=0B0F14&ring=FF4D5A&fire=FF4D5A&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=FF6B78&sideLabels=9CA3AF&dates=6B7280&stroke=1F2937"
+  width="88%"
+/>
+
+<br><br>
+
+<!-- Contribution Graph -->
+<img
+  src="https://github-readme-activity-graph.vercel.app/graph?username=OmsinghGit&bg_color=0B0F14&color=9CA3AF&line=FF4D5A&point=FFFFFF&area=true&area_color=FF4D5A&hide_border=true&custom_title=Contribution%20Activity"
+  width="94%"
+/>
+
+<br>
+
+<p>
+  <sub>
+    <b>Consistency</b> is built one contribution at a time.
+  </sub>
+</p>
 
 </div>
 
