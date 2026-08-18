@@ -1,10 +1,24 @@
+<!-- 🔴 MINIMAL TOP ANIMATION -->
+
 <div align="center">
 
-# 👋 Hi, I'm Om Singh
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0B0F14,50:161B22,100:FF4D5A&height=80&section=header" width="100%"/>
 
-### Software Development Engineer · AI Engineer · Full-Stack Developer
+</div>
 
-Building intelligent software with **AI, modern web technologies, and strong CS fundamentals.**
+<div align="center">
+
+# <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35px"> Hi, I'm Om Singh
+
+<h3>
+Software Development Engineer • AI Engineering • MERN Developer
+</h3>
+
+<p>
+Building intelligent software using AI, scalable backend systems, and modern web technologies.
+</p>
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=24&duration=3500&pause=1000&color=FF4D5A&center=true&vCenter=true&width=700&lines=Software+Development+Engineer;AI+Engineer;Full+Stack+Developer;Building+Products+That+Matter" />
 
 <br>
 
@@ -24,99 +38,26 @@ Building intelligent software with **AI, modern web technologies, and strong CS 
 
 ---
 
-## ⚡ About Me
+# 🚀 About Me
 
-I'm a Computer Science undergraduate building at the intersection of
-**Software Engineering and Artificial Intelligence**.
+```cpp
+class OmSingh {
 
-Currently exploring:
+public:
 
-`Agentic AI` · `LLM Applications` · `Full-Stack Development` · `Backend Engineering` · `DSA`
+    string role = "Software Development Engineer";
 
-> **Learn → Build → Understand → Improve**
+    vector<string> interests = {
+        "Artificial Intelligence",
+        "Full Stack Development",
+        "Backend Engineering",
+        "Data Structures & Algorithms",
+        "System Design"
+    };
 
-I learn by building practical projects and strengthening my engineering fundamentals.
+    string currentlyLearning =
+        "Agentic AI • LLM Applications • Backend Development";
 
----
-
-## 🚀 Selected Projects
-
-| Project | Description | Focus |
-|---|---|---|
-| 🤖 **[AI Study Mentor](https://github.com/OmsinghGit/5-Days-of-Agentic-AI)** | Agentic AI learning assistant | `NVIDIA NIM` · `LLMs` |
-| 🌆 **[URBAN AI](https://github.com/OmsinghGit/Urban-AI)** | AI-powered smart-city platform | `AI` · `Full-Stack` |
-| 📄 **[Agree2Met](https://github.com/OmsinghGit/Agree2Met)** | Digital agreement & trust platform | `React` · `AI` |
-| 🎬 **[CineMatch AI](https://github.com/OmsinghGit/cine-match-ai)** | Movie recommendation system | `C++` · `ML` |
-| 📚 **[DSA Mastery](https://github.com/OmsinghGit/dsa-mastery)** | Structured DSA & interview preparation | `C++` · `DSA` |
-
----
-
-## 🛠️ Technical Stack
-
-### Languages
-
-<img src="https://skillicons.dev/icons?i=cpp,c,java,python,js"/>
-
-### Development
-
-<img src="https://skillicons.dev/icons?i=html,css,react,tailwind,nodejs,express,mongodb,mysql"/>
-
-### Tools
-
-<img src="https://skillicons.dev/icons?i=git,github,vscode,figma,postman,canva"/>
-
-### AI
-
-`Generative AI` · `Agentic AI` · `LLMs` · `Prompt Engineering`
-
----
-
-## 🔥 GitHub Activity
-
-<div align="center">
-
-<img src="https://github-readme-streak-stats-eight.vercel.app?user=OmsinghGit&theme=tokyonight&hide_border=true"/>
-
-<br><br>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=OmsinghGit&theme=tokyo-night&hide_border=true"/>
-
-</div>
-
----
-
-## 🧭 Current Focus
-
-- 🤖 Building practical **AI & Agentic AI applications**
-- ⚙️ Strengthening **backend engineering & system design**
-- 🧠 Solving **DSA problems in C++**
-- 🌍 Exploring **open source & collaborative development**
-
----
-
-## 🎯 2026 Goals
-
-- 🧩 Solve **500+ DSA Problems**
-- 🤖 Build & deploy **production-ready AI applications**
-- 🌍 Contribute to **Open Source**
-- ☁️ Deploy scalable full-stack applications
-- 💼 Secure an **SDE / AI Engineer Internship**
-- 🏗️ Strengthen **System Design**
-
----
-
-## 🤝 Connect With Me
-
-<div align="center">
-
-<a href="https://github.com/OmsinghGit">GitHub</a>
-&nbsp; · &nbsp;
-<a href="https://linkedin.com/in/omsingh1-tech">LinkedIn</a>
-&nbsp; · &nbsp;
-<a href="mailto:omsingh1.tech@gmail.com">Email</a>
-
-<br><br>
-
-**Code. Learn. Build. Repeat.**
-
-</div>
+    string goal =
+        "Build scalable products used by millions.";
+};
