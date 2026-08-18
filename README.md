@@ -55,16 +55,8 @@ I’m driven by a simple loop: **learn → build → understand → improve** �
 
 <img
 src="https://github-readme-streak-stats-eight.vercel.app?user=OmsinghGit&hide_border=true&background=0D1117&ring=FF4D5A&fire=FF4D5A&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=FF6B78&sideLabels=9CA3AF&dates=6B7280"
-width="65%"
+width="45%"
 />
-
-<br><br>
-
-<img
-src="https://github-readme-activity-graph.vercel.app/graph?username=OmsinghGit&bg_color=0D1117&color=9CA3AF&line=FF4D5A&point=FFFFFF&area=true&area_color=FF4D5A&hide_border=true&custom_title=Contribution%20Activity"
-width="75%"
-/>
-
 </div>
 
 ---
