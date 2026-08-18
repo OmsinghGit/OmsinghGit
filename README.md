@@ -1,171 +1,207 @@
 <div align="center">
 
-# <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35px"> Hi, I'm Om Singh
+# Om Singh
 
-<h3>
-Software Development Engineer • AI Engineering • MERN Developer
-</h3>
+### Software Engineering • AI Engineering • Full-Stack Development
+
+Building practical software systems at the intersection of
+**software engineering, artificial intelligence, and modern web development.**
 
 <p>
-Building intelligent software using AI, scalable backend systems, and modern web technologies.
+  <a href="https://linkedin.com/in/omsingh1-tech">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:omsingh1.tech@gmail.com">
+    <img src="https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://github.com/OmsinghGit">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" />
+  </a>
 </p>
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=24&duration=3500&pause=1000&color=3B82F6&center=true&vCenter=true&width=700&lines=Software+Development+Engineer;AI+Engineer;Full+Stack+Developer;Building+Products+That+Matter" />
-
-<br>
-
-<a href="https://linkedin.com/in/omsingh1-tech">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-
-<a href="mailto:omsingh1.tech@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-
-<a href="https://github.com/OmsinghGit">
-<img src="https://komarev.com/ghpvc/?username=OmsinghGit&style=for-the-badge&color=blue"/>
-</a>
-
 </div>
 
 ---
 
-# 🚀 About Me
+## ⚡ Engineering Snapshot
 
-```cpp
-class OmSingh {
+I'm a Computer Science undergraduate focused on becoming a strong
+**Software Development Engineer with an AI engineering edge**.
 
-public:
+My current direction sits across three areas:
 
-    string role = "Software Development Engineer";
+- **Software Engineering** — building structured, maintainable applications
+- **AI Engineering** — exploring LLM applications, Agentic AI, and intelligent workflows
+- **Computer Science Foundations** — strengthening DSA, OOP, problem solving, and system design
 
-    vector<string> interests = {
-        "Artificial Intelligence",
-        "Full Stack Development",
-        "Backend Engineering",
-        "Data Structures & Algorithms",
-        "System Design"
-    };
-
-    string currentlyLearning =
-        "Agentic AI • LLM Applications • Backend Development";
-
-    string goal =
-        "Build scalable products used by millions.";
-};
-```
+I learn primarily by **building, experimenting, and understanding how systems work underneath the abstraction.**
 
 ---
 
-# 💻 Tech Stacks
+## 🔨 Currently Building
 
-## Languages
+> A snapshot of what I'm actively exploring — not just technologies listed on a resume.
 
-<img src="https://skillicons.dev/icons?i=cpp,c,java,python,js,html,css,react,tailwind,nodejs,express,mongodb,mysql"/>
+### 🤖 Agentic AI & LLM Applications
+Exploring practical AI systems using LLMs, AI APIs, agentic workflows, and
+tool-based interactions.
 
-## Tools & Platforms
+**Focus:** AI workflows • LLM applications • Agentic AI • Prompt Engineering
 
-<img src="https://skillicons.dev/icons?i=git,github,vscode,figma,postman,canva"/>
+### ⚙️ Full-Stack & Backend Engineering
+Strengthening my ability to design and build complete applications,
+from frontend interfaces to backend APIs and databases.
 
-## AI & Developer Tools
+**Focus:** React • Node.js • Express • REST APIs • MongoDB
 
-<p align="left">
+### 🧩 DSA & Engineering Fundamentals
+Continuously improving problem-solving ability through structured
+Data Structures & Algorithms practice in C++.
 
-<img src="https://img.shields.io/badge/ChatGPT-74AA9C?style=for-the-badge&logo=openai&logoColor=white"/>
-
-<img src="https://img.shields.io/badge/Google_AI_Studio-4285F4?style=for-the-badge&logo=google&logoColor=white"/>
-
-<img src="https://img.shields.io/badge/Cursor-000000?style=for-the-badge"/>
-
-<img src="https://img.shields.io/badge/Claude-D97706?style=for-the-badge"/>
-
-<img src="https://img.shields.io/badge/Devin_AI-111111?style=for-the-badge"/>
-
-</p>
+**Focus:** DSA • Algorithms • OOP • Problem Solving • System Design
 
 ---
 
-# 🔥 GitHub Streak
+# 🚀 Selected Engineering Work
 
-<div align="center">
+## 🤖 AI Study Mentor
 
-<img src="https://github-readme-streak-stats-eight.vercel.app?user=OmsinghGit&theme=tokyonight&hide_border=true"/>
+**Agentic AI learning assistant powered by NVIDIA NIM APIs.**
 
-</div>
+An exploration into building AI systems that can move beyond simple
+question-answering toward more structured and useful learning workflows.
 
----
+**Engineering focus**
+- Agentic AI workflows
+- LLM-powered interactions
+- NVIDIA NIM APIs
+- AI-assisted learning
 
-# 📈 Contribution Graph
+**Status:** `BUILDING / EXPLORING`
 
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=OmsinghGit&theme=tokyo-night&hide_border=true"/>
-
-</div>
-
----
-
-# 🚀 Featured Projects
-
-* 🤖 **[AI Study Mentor](https://github.com/OmsinghGit/5-Days-of-Agentic-AI)**
-  *Agentic AI assistant powered by NVIDIA NIM APIs.*
-
-* 🌆 **[URBAN AI](https://github.com/OmsinghGit/Urban-AI)**
-  *Smart city platform leveraging AI.*
-
-* 📄 **[Agree2Met](https://github.com/OmsinghGit/Agree2Met)**
-  *Secure digital agreement platform.*
-
-* 🎬 **[CineMatch AI](https://github.com/OmsinghGit/cine-match-ai)**
-  *AI-powered movie recommendation system using Machine Learning.*
-
-* 📚 **[DSA Mastery](https://github.com/OmsinghGit/dsa-mastery)**
-  *Structured DSA repository with patterns, notes, and interview-ready solutions.*
+→ [View Repository](https://github.com/OmsinghGit/5-Days-of-Agentic-AI)
 
 ---
 
-# 🌱 Currently Exploring
+## 🌆 URBAN AI
 
-* 🤖 Building Agentic AI Applications & AI Workflows
-* 🧠 Large Language Models (LLMs) & Prompt Engineering
-* ⚡ Backend Development with Node.js & Express
-* ☁️ Cloud Deployment (Docker, Vercel & AWS)
-* 📚 Advanced Data Structures & Algorithms
-* 🏗️ Scalable System Design & Software Architecture
+**AI-driven platform focused on smarter urban environments.**
 
----
+A project exploring how artificial intelligence can be applied to
+real-world city-related problems and intelligent decision-making.
 
-# 🎯 2026 Goals
+**Engineering focus**
+- AI-powered workflows
+- Problem-oriented system design
+- Full-stack application development
 
-* 🧩 Solve **500+ DSA Problems**
-* 🤖 Build & Deploy **Production-Ready AI Applications**
-* 🌍 Become an Active **Open Source Contributor**
-* ☁️ Deploy Scalable Full-Stack Applications
-* 💼 Secure an **SDE / AI Engineer Internship**
-* 🏗️ Master **Scalable System Design**
+**Status:** `BUILDING`
+
+→ [View Repository](https://github.com/OmsinghGit/Urban-AI)
 
 ---
 
-# 🤝 Connect With Me
+## 📄 Agree2Met
 
-<div align="center">
+**A digital agreement platform designed around trust, evidence, and verification.**
 
-<a href="mailto:omsingh1.tech@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
+The project explores how software can make everyday digital agreements
+more structured and trustworthy through evidence-based workflows and AI assistance.
 
-<a href="https://linkedin.com/in/omsingh1-tech">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
+**Engineering focus**
+- Full-stack development
+- Digital agreements
+- AI-assisted verification
+- Product-oriented system design
 
-</div>
+**Status:** `BUILDING`
+
+→ [View Repository](https://github.com/OmsinghGit/Agree2Met)
 
 ---
 
-<div align="center">
+## 🎬 CineMatch AI
 
-### ⭐ "Code. Learn. Build. Repeat."
+**Personalized movie recommendation system built around machine learning.**
 
-Thanks for visiting my profile!
+A project focused on applying recommendation techniques to create
+a more personalized movie discovery experience.
 
-</div>
+**Engineering focus**
+- Recommendation systems
+- Machine Learning
+- C++
+- Data-driven problem solving
+
+**Status:** `SHIPPED`
+
+→ [View Repository](https://github.com/OmsinghGit/cine-match-ai)
+
+---
+
+# 🧭 Engineering Journey
+
+My development journey has been shaped by a combination of
+**learning, building, internships, hackathons, and experimentation.**
+
+| Area | Experience |
+|------|------------|
+| 💻 Software Development | Full-stack and application development |
+| 🤖 AI / GenAI | Generative AI, LLM applications & Agentic AI exploration |
+| 🧠 Problem Solving | Continuous DSA practice in C++ |
+| 🧪 Internship Experience | AI & Data Science exposure |
+| 🏆 Hackathons | Product development, research & presentation |
+| 🔬 Research / Projects | Exploration of practical technology problems |
+
+Rather than treating these as separate tracks, I'm working toward one goal:
+
+> **Become an engineer who can understand the fundamentals, build complete systems, and use AI where it genuinely improves the product.**
+
+---
+
+# 🛠️ Technical Toolkit
+
+### Languages
+
+`C++` `C` `Java` `Python` `JavaScript`
+
+### Frontend
+
+`HTML` `CSS` `React` `Tailwind CSS`
+
+### Backend
+
+`Node.js` `Express.js` `REST APIs`
+
+### Databases
+
+`MongoDB` `MySQL`
+
+### AI / Emerging Technology
+
+`Generative AI` `LLM Applications` `Agentic AI` `Prompt Engineering`
+
+### Engineering Foundations
+
+`Data Structures & Algorithms` `OOP` `Problem Solving`
+`Git` `GitHub` `System Design`
+
+### Developer Tools
+
+`VS Code` `Postman` `Figma` `Canva`
+`ChatGPT` `Google AI Studio` `Cursor` `Claude` `Devin AI`
+
+---
+
+# 🧠 How I Think
+
+```text
+Understand the problem
+        ↓
+Build the simplest useful solution
+        ↓
+Test & learn from what breaks
+        ↓
+Improve the design
+        ↓
+Repeat
