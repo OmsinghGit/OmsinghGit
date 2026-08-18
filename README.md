@@ -18,7 +18,7 @@ Building intelligent software using AI, scalable backend systems, and modern web
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
-<a href="mailto:omsinghleet@gmail.com">
+<a href="mailto:omsingh1.tech@gmail.com">
 <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
@@ -30,7 +30,7 @@ Building intelligent software using AI, scalable backend systems, and modern web
 
 ---
 
-# 🚀About Me
+# 🚀 About Me
 
 ```cpp
 class OmSingh {
@@ -89,7 +89,7 @@ public:
 
 <div align="center">
 
-<img src="https://streak-stats.demolab.com?user=OmsinghGit&theme=tokyonight&hide_border=true"/>
+<img src="https://github-readme-streak-stats-eight.vercel.app?user=OmsinghGit&theme=tokyonight&hide_border=true"/>
 
 </div>
 
@@ -105,43 +105,44 @@ public:
 
 ---
 
-🚀 Featured Projects
+# 🚀 Featured Projects
 
-- 🤖 **[AI Study Mentor](https://github.com/OmsinghGit/5-Days-of-Agentic-AI)**  
+* 🤖 **[AI Study Mentor](https://github.com/OmsinghGit/5-Days-of-Agentic-AI)**
   *Agentic AI assistant powered by NVIDIA NIM APIs.*
 
-- 🌆 **[URBAN AI](https://github.com/OmsinghGit/Urban-AI)**  
+* 🌆 **[URBAN AI](https://github.com/OmsinghGit/Urban-AI)**
   *Smart city platform leveraging AI.*
 
-- 📄 **[Agree2Met](https://github.com/OmsinghGit/Agree2Met)**  
+* 📄 **[Agree2Met](https://github.com/OmsinghGit/Agree2Met)**
   *Secure digital agreement platform.*
 
-- 🎬 **[CineMatch AI](https://github.com/OmsinghGit/cine-match-ai)**  
+* 🎬 **[CineMatch AI](https://github.com/OmsinghGit/cine-match-ai)**
   *AI-powered movie recommendation system using Machine Learning.*
 
-- 📚 **[DSA Mastery](https://github.com/OmsinghGit/dsa-mastery)**  
+* 📚 **[DSA Mastery](https://github.com/OmsinghGit/dsa-mastery)**
   *Structured DSA repository with patterns, notes, and interview-ready solutions.*
-  
+
 ---
+
 # 🌱 Currently Exploring
 
-- 🤖 Building Agentic AI Applications & AI Workflows
-- 🧠 Large Language Models (LLMs) & Prompt Engineering
-- ⚡ Backend Development with Node.js & Express
-- ☁️ Cloud Deployment (Docker, Vercel & AWS)
-- 📚 Advanced Data Structures & Algorithms
-- 🏗️ Scalable System Design & Software Architecture
+* 🤖 Building Agentic AI Applications & AI Workflows
+* 🧠 Large Language Models (LLMs) & Prompt Engineering
+* ⚡ Backend Development with Node.js & Express
+* ☁️ Cloud Deployment (Docker, Vercel & AWS)
+* 📚 Advanced Data Structures & Algorithms
+* 🏗️ Scalable System Design & Software Architecture
 
 ---
 
 # 🎯 2026 Goals
 
-- 🧩 Solve **500+ DSA Problems**
-- 🤖 Build & Deploy **Production-Ready AI Applications**
-- 🌍 Become an Active **Open Source Contributor**
-- ☁️ Deploy Scalable Full-Stack Applications
-- 💼 Secure an **SDE / AI Engineer Internship**
-- 🏗️ Master **Scalable System Design**# 🎯 2026 Goals
+* 🧩 Solve **500+ DSA Problems**
+* 🤖 Build & Deploy **Production-Ready AI Applications**
+* 🌍 Become an Active **Open Source Contributor**
+* ☁️ Deploy Scalable Full-Stack Applications
+* 💼 Secure an **SDE / AI Engineer Internship**
+* 🏗️ Master **Scalable System Design**
 
 ---
 
@@ -157,7 +158,6 @@ public:
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
-
 </div>
 
 ---
@@ -168,4 +168,4 @@ public:
 
 Thanks for visiting my profile!
 
-</div>  
+</div>
