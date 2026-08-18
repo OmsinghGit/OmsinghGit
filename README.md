@@ -21,6 +21,7 @@ Building intelligent software with **AI, modern web technologies, and strong CS 
 
 I’m a Computer Science undergraduate building at the intersection of **Software Engineering and AI**.
 My current focus spans **Agentic AI, LLM applications, full-stack development, backend engineering, and DSA**.
+<br>
 I’m driven by a simple loop: **learn → build → understand → improve** — using projects to turn concepts into practical engineering experience.
 
 ---
