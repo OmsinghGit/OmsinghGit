@@ -1,11 +1,8 @@
 <div align="center">
 
 # Om Singh
-
-### `Software Engineer` · `AI Engineer` · `Full-Stack Developer`
-
+### `Software Engineering` · `AI Engineering` · `Full-Stack Developer`
 Building intelligent software with **AI, modern web technologies, and strong CS fundamentals.**
-
 <br>
 
 <a href="https://github.com/OmsinghGit">
@@ -22,13 +19,9 @@ Building intelligent software with **AI, modern web technologies, and strong CS 
 
 ## ⚡ What I Build
 
-I’m a Computer Science undergraduate focused on **Software Engineering + AI**.
-
-Currently exploring:
-
-`Agentic AI` · `LLM Applications` · `Full-Stack Development` · `Backend Engineering` · `DSA`
-
-I learn by **building real projects, strengthening fundamentals, and iterating on what I build.**
+I’m a Computer Science undergraduate building at the intersection of **Software Engineering and AI**.
+My current focus spans **Agentic AI, LLM applications, full-stack development, backend engineering, and DSA**.
+I’m driven by a simple loop: **learn → build → understand → improve** — using projects to turn concepts into practical engineering experience.
 
 ---
 
@@ -45,13 +38,9 @@ I learn by **building real projects, strengthening fundamentals, and iterating o
 
 ## 🛠️ Technical Stack
 
-**Languages**
+**Languages Dev & Tools**
 `C++` `C` `Java` `Python` `JavaScript`
-
-**Development**
 `HTML` `CSS` `React` `Tailwind` `Node.js` `Express`
-
-**Data & Tools**
 `MongoDB` `MySQL` `Git` `GitHub` `VS Code` `Postman`
 
 **AI**
@@ -62,7 +51,6 @@ I learn by **building real projects, strengthening fundamentals, and iterating o
 ## 🔥 GitHub Activity
 
 <div align="center">
-
 <img
 src="https://github-readme-streak-stats-eight.vercel.app?user=OmsinghGit&hide_border=true&background=0D1117&ring=FF4D5A&fire=FF4D5A&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=FF6B78&sideLabels=9CA3AF&dates=6B7280"
 width="85%"
@@ -79,33 +67,23 @@ width="92%"
 
 ---
 
-## 🧠 Current Focus
+## 🧭 Current Focus
 
-```text
-AI Engineering
-     +
-Software Engineering
-     +
-Computer Science Fundamentals
-```
+`AI Engineering` · `Software Engineering` · `CS Fundamentals`
 
-→ Building AI applications
-→ Improving backend & system design
-→ Solving DSA problems in C++
-→ Exploring open-source opportunities
+- 🤖 Building practical **AI & Agentic AI applications**
+- ⚙️ Strengthening **backend engineering & system design**
+- 🧠 Solving **DSA problems in C++**
+- 🌍 Exploring **open source & collaborative development**
 
 ---
 
 ## 🤝 Connect
 
 <div align="center">
-
 <a href="https://github.com/OmsinghGit">GitHub</a>
   ·   <a href="https://linkedin.com/in/omsingh1-tech">LinkedIn</a>
   ·   <a href="mailto:omsingh1.tech@gmail.com">Email</a>
-
 <br><br>
-
-<sub>Build. Learn. Improve.</sub>
 
 </div>
