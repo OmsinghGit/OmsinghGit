@@ -12,7 +12,7 @@
 
 ### Software Development Engineering • AI Engineeringing • MERN Developer
 
-Building intelligent software using **AI, scalable backend systems, and modern web technologies.**
+Building intelligent software using **AI, scalable backend systems, Agentic AI, and modern web technologies.**
 
 <br>
 
