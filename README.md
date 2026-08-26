@@ -2,7 +2,7 @@
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0B0F14,50:161B22,100:FF4D5A&height=80&section=header" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0B0F14,50:161B22,100:FF4D5A&height=80&section=header" width="100%" alt="Header"/>
 
 </div>
 
@@ -10,26 +10,26 @@
 
 # 👋 Hi, I'm Om Singh
 
-### Software Development Engineering • AI Engineeringing • MERN Developer
+### Software Development Engineer • AI Engineer • MERN Developer
 
 Building intelligent software using **AI, scalable backend systems, Agentic AI, and modern web technologies.**
 
 <br>
 
-![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=24&duration=3500&pause=1000&color=FF4D5A&center=true&vCenter=true&width=700&lines=Software+Development+Engineer;AI+Engineer;Full+Stack+Developer;Building+Products+That+Matter)
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=24&duration=3500&pause=1000&color=FF4D5A&center=true&vCenter=true&width=700&lines=Software+Development+Engineer;AI+Engineer;Full+Stack+Developer;Building+Products+That+Matter" alt="Typing SVG"/>
 
 <br>
 
 <a href="https://linkedin.com/in/omsingh1-tech">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
 </a>
 
 <a href="mailto:omsingh1.tech@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
 </a>
 
 <a href="https://github.com/OmsinghGit">
-<img src="https://komarev.com/ghpvc/?username=OmsinghGit&style=for-the-badge&color=FF4D5A"/>
+  <img src="https://komarev.com/ghpvc/?username=OmsinghGit&style=for-the-badge&color=FF4D5A" alt="Profile Views"/>
 </a>
 
 </div>
@@ -63,96 +63,117 @@ public:
 
 ---
 
-# 💻 Tech Stacks
+# 💻 Tech Stack
 
-## Languages
+## Languages & Frameworks
 
-<img src="https://skillicons.dev/icons?i=cpp,c,java,python,js,html,css,react,tailwind,nodejs,express,mongodb,mysql"/>
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=cpp,c,java,python,js,html,css,react,tailwind,nodejs,express,mongodb,mysql" alt="Tech Stack"/>
+</p>
 
 ## Tools & Platforms
 
-<img src="https://skillicons.dev/icons?i=git,github,vscode,figma,postman,canva"/>
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,figma,postman,canva" alt="Tools"/>
+</p>
 
-## AI & Developer Tools
+## 🤖 AI & Developer Tools
 
 <p align="left">
 
-<img src="https://img.shields.io/badge/ChatGPT-74AA9C?style=for-the-badge&logo=openai&logoColor=white"/>
+  <img src="https://img.shields.io/badge/ChatGPT-74AA9C?style=for-the-badge&logo=openai&logoColor=white" alt="ChatGPT"/>
 
-<img src="https://img.shields.io/badge/Google_AI_Studio-4285F4?style=for-the-badge&logo=google&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Google_AI_Studio-4285F4?style=for-the-badge&logo=google&logoColor=white" alt="Google AI Studio"/>
 
-<img src="https://img.shields.io/badge/Cursor-000000?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Cursor-000000?style=for-the-badge&logo=cursor&logoColor=white" alt="Cursor"/>
 
-<img src="https://img.shields.io/badge/Claude-D97706?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Claude-D97706?style=for-the-badge&logo=anthropic&logoColor=white" alt="Claude"/>
 
-<img src="https://img.shields.io/badge/Devin_AI-111111?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Devin_AI-111111?style=for-the-badge&logoColor=white" alt="Devin AI"/>
 
 </p>
 
 ---
 
-# GitHub Streak
+# 📊 GitHub Statistics
 
 <div align="center">
-<a href="https://github-readme-streak-stats-eight. vercel.app?user=OmsinghGit&theme=tokyonight&hide_border=true">
+
+<img
+src="https://github-readme-stats.vercel.app/api?username=OmsinghGit&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"
+alt="Om Singh GitHub Stats"
+/>
+
+<br><br>
+
+<img
+src="https://github-readme-stats.vercel.app/api/top-langs/?username=OmsinghGit&layout=compact&theme=tokyonight&hide_border=true"
+alt="Top Languages"
+/>
+
+</div>
+
+---
+
+# 🔥 GitHub Streak
+
+<div align="center">
+
 <img
 src="https://github-readme-streak-stats-eight.vercel.app/?user=OmsinghGit&theme=tokyonight&hide_border=true"
 alt="GitHub Streak"
-style="
-background: linear-gradient(90deg, #0B0F14 0%, #161B22 50%, #FF4D5A 100%);
-padding: 4px;
-border-radius: 12px;
-display: inline-block;
+/>
 
-</a>
 </div>
 
---
+---
 
-# Contribution Graph
+# 📈 Contribution Graph
 
 <div align="center">
-<a href="https://github-readme-activity-graph. vercel. app/graph?username=OmsinghGit&theme=tokyo-night&hide_border=true">
+
 <img
-src="https://github-readme-activity-graph. vercel. app/graph?username=OmsinghGit&theme=tokyo-night&hide_border=true"
-alt=" GitHub Contribution Graph"
-style="
-background: linear-gradient(90deg, #0B0F14 0%, #161B22 50%, #FF4D5A 100%);
-padding: 4px;
-border-radius: 12px;
-display: inline-block;
-</a> />
+src="https://github-readme-activity-graph.vercel.app/graph?username=OmsinghGit&theme=tokyo-night&hide_border=true"
+alt="GitHub Contribution Graph"
+width="100%"
+/>
+
 </div>
 
 ---
 
 # 🚀 Featured Projects
 
-* 🤖 **[AI Study Mentor](https://github.com/OmsinghGit/5-Days-of-Agentic-AI)**  
-  *Agentic AI assistant powered by NVIDIA NIM APIs.*
+### 🤖 [AI Study Mentor](https://github.com/OmsinghGit/5-Days-of-Agentic-AI)
 
-* 🌆 **[URBAN AI](https://github.com/OmsinghGit/Urban-AI)**  
-  *Smart city platform leveraging AI.*
+Agentic AI assistant powered by **NVIDIA NIM APIs**, designed to provide intelligent and contextual study assistance.
 
-* 📄 **[Agree2Met](https://github.com/OmsinghGit/Agree2Met)**  
-  *Secure digital agreement platform.*
+### 🌆 [URBAN AI](https://github.com/OmsinghGit/Urban-AI)
 
-* 🎬 **[CineMatch AI](https://github.com/OmsinghGit/cine-match-ai)**  
-  *AI-powered movie recommendation system using Machine Learning.*
+Smart city platform leveraging **Artificial Intelligence** to address urban challenges and improve citizen experiences.
 
-* 📚 **[DSA Mastery](https://github.com/OmsinghGit/dsa-mastery)**  
-  *Structured DSA repository with patterns, notes, and interview-ready solutions.*
+### 📄 [Agree2Met](https://github.com/OmsinghGit/Agree2Met)
+
+Secure digital agreement platform focused on **digital trust, agreements, evidence, and AI-powered verification**.
+
+### 🎬 [CineMatch AI](https://github.com/OmsinghGit/cine-match-ai)
+
+AI-powered movie recommendation system using **Machine Learning** to provide personalized movie recommendations.
+
+### 📚 [DSA Mastery](https://github.com/OmsinghGit/dsa-mastery)
+
+Structured **Data Structures & Algorithms** repository containing patterns, notes, and interview-ready solutions.
 
 ---
 
 # 🌱 Currently Exploring
 
-* 🤖 Building Agentic AI Applications & AI Workflows
-* 🧠 Large Language Models (LLMs) & Prompt Engineering
-* ⚡ Backend Development with Node.js & Express
-* ☁️ Cloud Deployment (Docker, Vercel & AWS)
-* 📚 Advanced Data Structures & Algorithms
-* 🏗️ Scalable System Design & Software Architecture
+* 🤖 Building **Agentic AI Applications & AI Workflows**
+* 🧠 **Large Language Models (LLMs) & Prompt Engineering**
+* ⚡ **Backend Development** with Node.js & Express
+* ☁️ **Cloud Deployment** with Docker, Vercel & AWS
+* 📚 Advanced **Data Structures & Algorithms**
+* 🏗️ **Scalable System Design & Software Architecture**
 
 ---
 
@@ -161,7 +182,7 @@ display: inline-block;
 * 🧩 Solve **500+ DSA Problems**
 * 🤖 Build & Deploy **Production-Ready AI Applications**
 * 🌍 Become an Active **Open Source Contributor**
-* ☁️ Deploy Scalable Full-Stack Applications
+* ☁️ Deploy Scalable **Full-Stack Applications**
 * 💼 Secure an **SDE / AI Engineer Internship**
 * 🏗️ Master **Scalable System Design**
 
@@ -172,15 +193,15 @@ display: inline-block;
 <div align="center">
 
 <a href="mailto:omsingh1.tech@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
 </a>
 
 <a href="https://linkedin.com/in/omsingh1-tech">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
 </a>
 
 <a href="https://github.com/OmsinghGit">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
 </a>
 
 </div>
@@ -191,7 +212,7 @@ display: inline-block;
 
 ### ⭐ "Code. Learn. Build. Repeat."
 
-Thanks for visiting my profile!
+Thanks for visiting my profile! 🚀
 
 </div>
 
@@ -199,6 +220,6 @@ Thanks for visiting my profile!
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF4D5A,50:161B22,100:0B0F14&height=75&section=footer" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF4D5A,50:161B22,100:0B0F14&height=75&section=footer" width="100%" alt="Footer"/>
 
 </div>
