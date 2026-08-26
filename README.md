@@ -91,26 +91,37 @@ public:
 
 ---
 
-# 🔥 GitHub Streak
+# GitHub Streak
 
 <div align="center">
-
+<a href="https://github-readme-streak-stats-eight. vercel.app?user=OmsinghGit&theme=tokyonight&hide_border=true">
 <img
-src="https://github-readme-streak-stats-eight.vercel.app?user=OmsinghGit&theme=tokyonight&hide_border=true"
-/>
+src="https://github-readme-streak-stats-eight.vercel.app/?user=OmsinghGit&theme=tokyonight&hide_border=true"
+alt="GitHub Streak"
+style="
+background: linear-gradient(90deg, #0B0F14 0%, #161B22 50%, #FF4D5A 100%);
+padding: 4px;
+border-radius: 12px;
+display: inline-block;
 
+</a>
 </div>
 
----
+--
 
-# 📈 Contribution Graph
+# Contribution Graph
 
 <div align="center">
-
+<a href="https://github-readme-activity-graph. vercel. app/graph?username=OmsinghGit&theme=tokyo-night&hide_border=true">
 <img
-src="https://github-readme-activity-graph.vercel.app/graph?username=OmsinghGit&theme=tokyo-night&hide_border=true"
-/>
-
+src="https://github-readme-activity-graph. vercel. app/graph?username=OmsinghGit&theme=tokyo-night&hide_border=true"
+alt=" GitHub Contribution Graph"
+style="
+background: linear-gradient(90deg, #0B0F14 0%, #161B22 50%, #FF4D5A 100%);
+padding: 4px;
+border-radius: 12px;
+display: inline-block;
+</a> />
 </div>
 
 ---
