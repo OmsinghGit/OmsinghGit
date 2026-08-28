@@ -95,52 +95,37 @@ public:
 
 ---
 
-# 📊 GitHub Statistics
+<!-- <div align="center"> -->
 
-<div align="center">
-
-<img
+<!-- <img
 src="https://github-readme-stats.vercel.app/api?username=OmsinghGit&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"
 alt="Om Singh GitHub Stats"
-/>
+/> -->
 
-<br><br>
+<!-- <br><br> -->
 
-<img
+<!-- <img
 src="https://github-readme-stats.vercel.app/api/top-langs/?username=OmsinghGit&layout=compact&theme=tokyonight&hide_border=true"
 alt="Top Languages"
-/>
+/> -->
 
-</div>
+<!-- </div> -->
 
----
+<!-- <div align="center"> -->
 
-# 🔥 GitHub Streak
-
-<div align="center">
-
-<img
+<!-- <img
 src="https://github-readme-streak-stats-eight.vercel.app/?user=OmsinghGit&theme=tokyonight&hide_border=true"
 alt="GitHub Streak"
-/>
+/> -->
 
-</div>
+<!-- </div> -->
 
----
+<!-- <div align="center"> -->
 
-# 📈 Contribution Graph
 
-<div align="center">
+<!-- /> -->
 
-<img
-src="https://github-readme-activity-graph.vercel.app/graph?username=OmsinghGit&theme=tokyo-night&hide_border=true"
-alt="GitHub Contribution Graph"
-width="100%"
-/>
-
-</div>
-
----
+<!-- </div> -->
 
 # 🚀 Featured Projects
 
