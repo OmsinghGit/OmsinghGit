@@ -1,4 +1,4 @@
-<!-- 🔴 MINIMAL TOP ANIMATION -->
+
 
 <div align="center">
 
