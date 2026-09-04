@@ -9,7 +9,7 @@
 
 # 👋 Hi, I'm Om Singh
 
-### Software Development Engineer • AI Engineer • MERN Developer
+### Software Development Engineering • AI Engineering • MERN Developer
 
 Building intelligent software using **AI, scalable backend systems, Agentic AI, and modern web technologies.**
 
