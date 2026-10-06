@@ -7,7 +7,7 @@
 
 <div align="center">
 
-# 👋 Hi, I'm Om Singh
+# 👋 Hi, I'm Om Singh Rathore
 
 ### Software Development Engineering • AI Engineering • MERN Developer
 
