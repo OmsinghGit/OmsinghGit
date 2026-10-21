@@ -9,7 +9,7 @@
 
 # 👋 Hi, I'm Om Singh Rathore
 
-### Software Development Engineering • AI Engineering • MERN Developer
+### Software Engineering 
 
 Building intelligent software using **AI, scalable backend systems, Agentic AI, and modern web technologies.**
 
