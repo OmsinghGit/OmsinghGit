@@ -15,7 +15,7 @@ Building intelligent software using **AI, scalable backend systems, Agentic AI, 
 
 <br>
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=24&duration=3500&pause=1000&color=FF4D5A&center=true&vCenter=true&width=700&lines=Software+Development+Engineer;AI+Engineer;Full+Stack+Developer;Building+Products+That+Matter" alt="Typing SVG"/>
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=24&duration=3500&pause=1000&color=FF4D5A&center=true&vCenter=true&width=700&lines=Software+Development+Engineering;Software+Engineering;Full+Stack+Development;Building+Products+That+Matter" alt="Typing SVG"/>
 
 <br>
 
